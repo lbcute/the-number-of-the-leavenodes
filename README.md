@@ -1,4 +1,4 @@
-#include<iostream>
+```#include<iostream>
 #include<queue>
 using namespace std;
 typedef struct node//定义一个node结构
@@ -67,7 +67,7 @@ int main()
   cout<<"这棵树的叶子结点数目是："<<endl;
   cout<<leavenumber(q)<<endl;
  
-}
+}```
 
 
 
